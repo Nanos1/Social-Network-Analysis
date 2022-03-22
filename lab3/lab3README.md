@@ -1,4 +1,4 @@
-In this project a graph is constructed for predicting links. 
+In this project a graph is constructed for predicting links with machine learning techniques. 
 Graph nodes represent Wikipedia pages and edges have a similar relationship to each other.
 The technique applied is as follows:
   Similarity-based: For each pair of unconnected nodes in
