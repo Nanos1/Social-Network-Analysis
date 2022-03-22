@@ -14,3 +14,6 @@ The technique applied is as follows:
   
   Learning-based: Binary classification problem. The goal is to build a forecasting model
   two distinct categories ("existence of connection", "non-existence of connection").
+  
+  Dataset used:
+    - http://konect.cc/networks/dbpedia-similar/
